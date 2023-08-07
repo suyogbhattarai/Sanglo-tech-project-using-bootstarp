@@ -1,0 +1,154 @@
+
+.banner{
+  background-image: url('https://sangalotech.com/html/13/assets/images/hero-bg.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-bottom: 115px;
+  
+  background-size: cover;
+
+    .row{
+        .left{
+            transform: translateY(120PX);
+        h1{font-size: 4rem;
+        }
+    }
+        .right{
+            transform: translateY(50PX);
+        .ban-img1{
+            border-radius: 0px 100px 0px 100px;
+            transform: translate(-250px,60px);
+        }
+        .ban-img2{
+            border-radius: 0px 100px 0px 100px;
+            transform: translate(40px);
+        }
+        .support{
+            position: absolute;
+            top: 400px;
+            left: 30px;
+            background: #ffffff;
+            padding: 20px 30px;
+            border-radius: 60px 10px ;
+            .phone{color: 
+                #ee4a62;}
+                
+        }
+    }
+    }
+}
+.categories{
+ .top-text{
+    margin-top: 70px;
+    
+    .blue{color: #1ab79d;display: inline;}
+    p{padding-top: 10px;}
+
+ }
+ .row{
+    h2{font-size: 1.5rem;padding: 10px 0px;}
+    .box1{
+        background-color: #e8f7f5;
+        border-radius: 20px;
+        padding: 30px;
+
+        .icon{background: #d3f0ec;padding: 15px;border-radius: 50px;}
+        .btn{
+            background: #d3f0ec;border-radius: 10px;
+            color: #1ab69d  ;
+            display: inline-block;
+            
+            
+        }
+    }
+    .box1{
+        background-color: #e8f7f5;
+        border-radius: 20px;
+        padding: 30px;
+
+        .icon{background: #d3f0ec;padding: 15px;border-radius: 10px;}
+        .btn{
+            background: #d3f0ec;border-radius: 10px;
+            color: #1ab69d  ;
+            display: inline-block;
+            
+            
+        }
+    }
+    .box2{
+        background-color:#fdecef;
+        border-radius: 20px;
+        padding: 30px;
+
+        .icon{background: #fbdbe1;padding: 15px;border-radius: 50px;}
+        .btn{
+            background: #fbdbe1;border-radius: 10px;
+            color:#ee4a62  ;
+            display: inline-block;
+            
+            
+        }
+    }
+    .box3{
+        background-color: #eceffc;
+        border-radius: 20px;
+        padding: 30px;
+
+        .icon{background: #dbe1f9;padding: 15px;border-radius: 10px;}
+        .btn{
+            background: #d3f0ec;border-radius: 10px;
+            color:#4c69e5 ;
+            display: inline-block;
+            
+            
+        }
+    }
+    .box4{
+        background-color: #fef7e8;
+        border-radius: 20px;
+        padding: 30px;
+
+        .icon{background: #fdf0d3;padding: 15px;border-radius: 50px;}
+        .btn{
+            background:fdf0d3 ;border-radius: 10px;
+            color: #f8941f  ;
+            display: inline-block;
+            
+            
+        }
+    }
+    
+ }
+}
+.aboutus{
+    .row{
+   
+        .aboutus-left{position: absolute;top:100px;left:0px ;
+           
+            .ladyimg{position: absolute;top:50%;left:50% ;border-radius: 20px;transform: translate(-50%,-50%);}
+            .card{position: absolute;top:0px;left:350px ;border: none;background-color: white;border-radius: 0px 100px;padding: 20px 20px;
+                h2{font-size: 1.5rem;}
+                
+            .ring{
+                width: 100px;
+               
+                padding: 20px 0px;
+            }}
+            .support{
+                
+                position: absolute;
+                top: 400px;
+                left: 30px;
+                background: #ffffff;
+                padding: 20px 30px;
+                border-radius: 60px 10px ;
+                .phone{color: 
+                    #ee4a62;}
+                    
+            }
+        }
+        .aboutus-right{margin-left:250px;}
+            
+        
+    }
+}
